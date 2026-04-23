@@ -90,7 +90,6 @@ The lighting layout is developed to provide complete coverage of all critical zo
 
 ## ⚙️ Project Files
 
-* 📁 DIALux File (.evo)
 * 📄 Lighting Calculation Report (PDF)
 * 🖼️ Design Images and Renderings
 
