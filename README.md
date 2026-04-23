@@ -84,7 +84,7 @@ The lighting layout is developed to provide complete coverage of all critical zo
 
 ### 🔹 Isolux Diagram
 
-![Isolux](images/isolux.png)
+<img width="289" height="254" alt="Isolux digram" src="https://github.com/user-attachments/assets/368b2a3d-62c9-4a94-991d-c3d0ef2057c4" />
 
 ---
 
